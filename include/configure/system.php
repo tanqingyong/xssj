@@ -1,0 +1,27 @@
+<?php
+$value = array (
+  'wwwprefix' => 'http://localhost/zuitu',
+  'imgprefix' => 'http://localhost/zuitu',
+  'cssprefix' => 'http://localhost/zuitu',
+  'sitename' => '窝窝团财务对账系统',
+  'sitetitle' => '窝窝团财务对账系统',
+  'abbreviation' => '窝窝团财务对账系统',
+  'couponname' => '优惠券',
+  'currency' => '¥',
+  'currencyname' => 'CNY',
+  'timezone' => 'Etc/GMT-8',
+  'invitecredit' => '0',
+  'sideteam' => '0',
+  'conduser' => 0,
+  'partnerdown' => 0,
+  'gzip' => 0,
+  'kefuqq' => '',
+  'kefumsn' => '',
+  'mobileurl' => '',
+  'icp' => '',
+  'statcode' => '',
+  'sinajiwai' => '',
+  'tencentjiwai' => '',
+  'googlemap' => '',
+);
+?>
